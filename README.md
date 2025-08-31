@@ -24,18 +24,6 @@ Here’s a quick look at the blog template:
 
 ---
 
-## 🔹 Purpose
-
-The goal of this project is to demonstrate **frontend abilities** with:
-
-- HTML5  
-- CSS3  
-- Vanilla JavaScript  
-
-It is intended as a **demonstration template** for potential employers or clients.
-
----
-
 ## 🔹 How to Use
 
 1. Clone the repository:
