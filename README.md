@@ -1,6 +1,5 @@
 # Blog Template - Frontend Showcase
 
-
 ---
 
 ## 🔹 Overview
@@ -13,6 +12,15 @@ It is primarily meant as a **portfolio piece** rather than a fully functional bl
 - Template ready for dynamic content  
 - Simulated database using a JavaScript file (`posts.js`)  
 - **Search functionality is not yet implemented**  
+- **Add a post functionality is not yet implemented**
+
+---
+
+## 🔹 Project Preview
+
+Here’s a quick look at the blog template:
+
+![Blog Template Preview](preview.png)
 
 ---
 
